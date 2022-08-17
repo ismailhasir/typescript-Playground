@@ -1,0 +1,23 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Maximilian Schwarzmüller",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailhasir/typescript-Playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ismailhasir/typescript-Playground/issues"
+  },
+  "homepage": "https://github.com/ismailhasir/typescript-Playground#readme",
+  "description": ""
+}
